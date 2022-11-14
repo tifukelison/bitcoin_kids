@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbitcoin_kids"]=self["webpackChunkbitcoin_kids"]||[]).push([[443],{3358:function(n,i,t){t.r(i),t.d(i,{default:function(){return d}});var c=t(3396);const e={id:"signUp"};function s(n,i,t,s,a,o){const r=(0,c.up)("SignIn");return(0,c.wg)(),(0,c.iD)("div",e,[(0,c.Wm)(r)])}var a=t(1269),o={name:"SignUp",components:{SignIn:a.Z},data:()=>({})},r=t(89);const u=(0,r.Z)(o,[["render",s],["__scopeId","data-v-fc089e08"]]);var d=u}}]);
+//# sourceMappingURL=about.a48be7b6.js.map
